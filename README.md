@@ -1,3 +1,3 @@
-# vendor/lge/mako
-Nexus 4 (mako) binary blobs
+# vendor/lge/geehrc
+Optimus G (geehrc) binary blobs
 
