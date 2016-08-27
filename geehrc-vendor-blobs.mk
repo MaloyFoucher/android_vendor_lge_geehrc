@@ -185,7 +185,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
     $(LOCAL_PATH)/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
     $(LOCAL_PATH)/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
-    $(LOCAL_PATH)/lib/hw/camera.vendor.msm8960.so:system/lib/hw/camera.vendor.msm8960.so \
+    $(LOCAL_PATH)/lib/hw/camera.msm8960.so:system/lib/hw/camera.msm8960.so \
     $(LOCAL_PATH)/lib/libadsprpc.so:system/lib/libadsprpc.so \
     $(LOCAL_PATH)/lib/libchromatix_imx074_default_video.so:system/lib/libchromatix_imx074_default_video.so \
     $(LOCAL_PATH)/lib/libchromatix_imx074_preview.so:system/lib/libchromatix_imx074_preview.so \
