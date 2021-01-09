@@ -140,6 +140,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/lib/libxml.so:system/lib/libxml.so \
     $(LOCAL_PATH)/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
     $(LOCAL_PATH)/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
+    $(LOCAL_PATH)/vendor/firmware/bcm2079x_firmware.ncd:system/vendor/firmware/bcm2079x_firmware.ncd \
+    $(LOCAL_PATH)/vendor/firmware/bcm2079x_pre_firmware.ncd:system/vendor/firmware/bcm2079x_pre_firmware.ncd \
     $(LOCAL_PATH)/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
     $(LOCAL_PATH)/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
     $(LOCAL_PATH)/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
